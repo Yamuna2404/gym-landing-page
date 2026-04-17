@@ -63,8 +63,8 @@ A modern **Gym / Fitness Landing Page** built to showcase plans, features, and c
 
 ### Clone the Project
 ```bash
-git clone 
-cd 
+git clone https://github.com/Yamuna2404/gym-landing-page 
+cd gym-landing-page
 
 ```
 ## 👩‍💻 Author & Contact
